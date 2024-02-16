@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=50&pause=1000&color=FF91A4&center=&vCenter=&repeat=&random=verdadeiro&width=435&lines=Meu+nome+%C3%A9+Luciene+Louzada;Tenho+24+anos%2C+sou+engenheira+de+software)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&pause=1000&color=FF91A4&centertrue=&vCentertrue=&repeat=&random=true&width=446&height=54&lines=Meu+nome+%C3%A9+Luciene+Louzada;Tenho+24+anos%2C+sou+engenheira+de+software)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=llouzadas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
